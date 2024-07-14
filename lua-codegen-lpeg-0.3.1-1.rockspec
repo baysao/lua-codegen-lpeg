@@ -31,7 +31,7 @@ description = {
     license = 'MIT/X11'
 }
 dependencies = {
-    'lua >= 5.1',
+    'luajit >= 2.0',
     'lpeg >= 0.10',
 }
 build = {
